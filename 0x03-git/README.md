@@ -1,3 +1,3 @@
 #Favourite food
 * Rice 
-** Thank you **
+** Thank you! **
